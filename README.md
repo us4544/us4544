@@ -1,9 +1,8 @@
-### Hello ,Folks !👋 I'm Umang Shringi
+# Hello ,Folks !👋 I'm Umang Shringi
 
-
+<h2>About me </h2><br>
 🎓 I'm currently studying Computer Science Engineering from SRM University. <br>
-🌱 Currently learning Artificial Intelligence with Machine Learning
-
+🌱 Currently learning Artificial Intelligence with Machine Learning. <br>
 🔭 Looking for new opportunities 
 
 ## 📈 GitHub Stats
