@@ -15,6 +15,6 @@
 <a href="https://instagram.com/umangshringi_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umangshringi_04" height="30" width="40" /></a>
 </p>
 
-## 📈 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=us4544&theme=synthwave&border_radius=20&show_icons=true&locale=en" alt="us4544" /></p>
-<p> <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=us4544&theme=synthwave&border_radius=20" alt="us4544" /></p>
+## 📈 GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=us4544&theme=synthwave&border_radius=20&count_private=true&show_icons=true&locale=en" alt="us4544" /></p>
+<p> <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=us4544&theme=synthwave&border_radius=20&count_private=true" alt="us4544" /></p>
