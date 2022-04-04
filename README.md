@@ -16,5 +16,5 @@
 </p>
 
 ## 📈 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=us4544&theme=synthwave&border_radius=20&show_icons=true&locale=en" alt="us4544" /></p>
-<p> <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=us4544&theme=synthwave&border_radius=20&show_icons=true" alt="us4544" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=us4544&theme=synthwave&border_radius=20&locale=en" alt="us4544" /></p>
+<p> <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=us4544&theme=synthwave&border_radius=20&" alt="us4544" /></p>
