@@ -16,5 +16,6 @@
 </p>
 
 ## 📈 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=us4544&theme=synthwave&border_radius=20&locale=en" alt="us4544" /></p>
-<p> <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=us4544&theme=synthwave&border_radius=20&" alt="us4544" /></p>
+![Umang's GitHub stats](https://github-readme-stats.vercel.app/api?username=us4544&count_private=true&theme=nightowl&border_radius=20)<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=us4544&count_private=true&theme=nightowl&border_radius=20)](https://github.com/us4544/github-readme-stats)
